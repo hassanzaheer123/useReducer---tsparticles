@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, #141e30, #243b55);
+  }
+  #tsparticles{
+    z-index: -1234 !important;
+  }
+  .container{
+    z-index: 1212112;
+  }
